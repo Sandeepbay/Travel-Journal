@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+} 
+
+
+.Navbar {
+    background-color:#f55a5a;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Image {
+    width: 230px;
+    height: 268px;
+    border-radius: 5px;
+}
+
+.Section {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    width: 95%;
+    height: 90%;
+}
+
+.Title {
+    font-weight: 700;
+    font-size: 25px;
+    margin-bottom: 7px;
+}
+
+.Country {
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 7px;
+}
+
+.Description {
+    margin-top: 7px;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 120%;
+    word-wrap: break-word;
+    color: #f55a5a;;
+}
+
+.Map {
+    color: #918e9b;
+    font-size: 15px;
+}
+
+.Card {
+    width: 25%
+}
